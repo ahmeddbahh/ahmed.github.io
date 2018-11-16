@@ -1,0 +1,74 @@
+.btn-primary
+{
+    
+    background: rgb(127, 15, 168);
+    border-color:rgb(127, 15, 168);
+    
+}
+
+
+footer
+{
+    
+    background: #574343;
+    
+}
+
+
+.fa-code
+{
+    
+    color: coral;
+}
+
+.fa-css3
+{
+    color: #c6f210;
+    
+}
+
+.fa-bold
+{
+    
+    color: rebeccapurple;
+    
+}
+
+/* --------------------------------------social icon-----------------------------------*/
+.fa-facebook {
+	color: #3b5998;
+}
+
+.fa-twitter
+{
+    
+    
+    color:  #1da1f2;
+}
+
+.fa-google-plus-g
+{
+    
+    color:  #db4437;
+    
+}
+.fa-instagram size
+{
+    color: #c32aa3;
+    
+    
+}
+
+.fa-youtube
+{
+    color: #ff0000;
+
+
+    
+}
+.size
+{
+    
+    font-size: 4em;
+    margin: 20px;
+}
